@@ -1,0 +1,303 @@
+{
+    "start": {
+        "text": "Урааааа, теперь вы тоже наш гость. Чтобы сказать огромное спасибо мы записали для вас короткое видео.\nПосмотрим сейчас?",
+        "files": [],
+        "buttons": [
+            "Ага, жги!",
+            "Попозже"
+        ]
+    },
+
+    "buttons1_1": {
+        "text": "Надеемся вам понравилось. Давайте продолжим. Где вы остановились?",
+        "files": [
+            {
+                "type": "video",
+                "file": "https://www.youtube.com/watch?v=kWp3Rv0Ovho"
+            }
+        ],
+        "buttons": [
+            "Palmetto Condominium",
+            "Chic Condominium",
+            "Другое"
+        ]
+    },
+
+    "buttons1_2": {
+        "text": "Где вы остановились?",
+        "files": [],
+        "buttons": [
+            "Palmetto Condominium",
+            "Chic Condominium",
+            "Другое"
+        ]
+    },
+
+    "buttons2_1": {
+        "text": "Что бы вы хотели узнать?\n\n<code>1</code> - что есть интересного рядом\n<code>2</code> - где взять набор для барбекю\n\n<i>ЭКСКЛЮЗИВНО ДЛЯ НАШИХ ГОСТЕЙ:</i>\n<code>3</code> - Mr.Coffee - сытные завтраки за 200б\n<code>4</code> - как получить бесплатный кофе в Palmetto Cafee\n<code>5</code> - скидка 5% в Tokyo&Veranda\n\n<i>НАШИ ПРОВЕРЕННЫЕ ПАРТНЁРЫ:</i>\n<code>6</code> - аренда байка(авто) со скидкой по промокоду REDFOX\n<code>7</code> -  экскурсии со скидками по промокоду REDFOX \n\n<code>8</code> - ПРОГРАММА \"ИНВЕСТОР\" ПРИ ПОКУПКЕ НЕДВИЖИМОСТИ НА ПХУКЕТЕ\n\n<code>9</code> - ВСТУПИТЬ В ЧАТ ГОСТЕЙ REDFOX, ЧТОБЫ БЫТЬ В КУРСЕ ВСЕХ МЕРОПРИЯТИЙ",
+        "files": [],
+        "buttons": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ]
+    },
+
+    "buttons2_2": {
+        "text": "Что бы вы хотели узнать?\n\n<code>1</code> - что есть интересного рядом\n<code>2</code> - где взять набор для барбекю\n<code>3</code> - что есть интересного рядом\n\n<i>ЭКСКЛЮЗИВНО ДЛЯ НАШИХ ГОСТЕЙ:</i>\n<code>4</code> - Mr.Coffee - сытные завтраки за 200б\n<code>5</code> - как получить бесплатный кофе в Palmetto Cafee\n<code>6</code> - скидка 5% в Tokyo&Veranda\n\n<i>НАШИ ПРОВЕРЕННЫЕ ПАРТНЁРЫ:</i>\n<code>7</code> - аренда байка(авто) со скидкой по промокоду REDFOX\n<code>8</code> -  экскурсии со скидками по промокоду REDFOX \n\n<code>9</code> - ПРОГРАММА \"ИНВЕСТОР\" ПРИ ПОКУПКЕ НЕДВИЖИМОСТИ НА ПХУКЕТЕ\n\n<code>10</code> - ВСТУПИТЬ В ЧАТ ГОСТЕЙ REDFOX, ЧТОБЫ БЫТЬ В КУРСЕ ВСЕХ МЕРОПРИЯТИЙ",
+        "files": [],
+        "buttons": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+        ]
+    },
+
+    "buttons2_3": {
+        "text": "Что бы вы хотели узнать?\n\n<code>1</code> - скидка 5% в Tokyo&Veranda\n\n<i>НАШИ ПРОВЕРЕННЫЕ ПАРТНЁРЫ:</i>\n<code>2</code> - аренда байка(авто) со скидкой по промокоду REDFOX\n<code>3</code> -  экскурсии со скидками по промокоду REDFOX \n\n<code>4</code> - ПРОГРАММА \"ИНВЕСТОР\" ПРИ ПОКУПКЕ НЕДВИЖИМОСТИ НА ПХУКЕТЕ\n\n<code>5</code> - ВСТУПИТЬ В ЧАТ ГОСТЕЙ REDFOX, ЧТОБЫ БЫТЬ В КУРСЕ ВСЕХ МЕРОПРИЯТИЙ",
+        "files": [],
+        "buttons": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+
+    "buttons3_1_1": {
+        "text": "текст",
+        "files": [],
+        "buttons": [
+            "Назад"
+        ]
+    },
+    "buttons3_1_2": {
+        "text": "текст",
+        "files": [],
+        "buttons": [
+            "Назад"
+        ]
+    },
+    "buttons3_1_3": {
+        "text": "текст",
+        "files": [
+            {
+                "type": "photo",
+                "file": "files/simple.jpg"
+            },
+            {
+                "type": "photo",
+                "file": "files/simple.jpg"
+            }
+        ],
+        "buttons": [
+            "Назад"
+        ]
+    },
+    "buttons3_1_4": {
+        "text": "текст",
+        "files": [],
+        "buttons": [
+            "Назад"
+        ]
+    },
+    "buttons3_1_5": {
+        "text": "текст",
+        "files": [],
+        "buttons": [
+            "Назад"
+        ]
+    },
+    "buttons3_1_6": {
+        "text": "текст",
+        "files": [],
+        "buttons": [
+            "Назад"
+        ]
+    },
+    "buttons3_1_7": {
+        "text": "текст",
+        "files": [
+            {
+                "type": "pdf",
+                "file": "http://www.africau.edu/images/default/sample.pdf"
+            }
+        ],
+        "buttons": [
+            "Назад"
+        ]
+    },
+    "buttons3_1_8": {
+        "text": "текст",
+        "files": [],
+        "buttons": [
+            "Назад"
+        ]
+    },
+    "buttons3_1_9": {
+        "text": "текст",
+        "files": [],
+        "buttons": [
+            "Назад"
+        ]
+    },
+
+    "buttons3_2_1": {
+        "text": "текст",
+        "files": [
+            {
+                "type": "photo",
+                "file": "files/simple.jpg"
+            },
+            {
+                "type": "photo",
+                "file": "files/simple.jpg"
+            }
+        ],
+        "buttons": [
+            "Назад"
+        ]
+    },
+    "buttons3_2_2": {
+        "text": "текст",
+        "files": [],
+        "buttons": [
+            "Назад"
+        ]
+    },
+    "buttons3_2_3": {
+        "text": "текст",
+        "files": [],
+        "buttons": [
+            "Назад"
+        ]
+    },
+    "buttons3_2_4": {
+        "text": "текст",
+        "files": [
+            {
+                "type": "photo",
+                "file": "files/simple.jpg"
+            },
+            {
+                "type": "photo",
+                "file": "files/simple.jpg"
+            }
+        ],
+        "buttons": [
+            "Назад"
+        ]
+    },
+    "buttons3_2_5": {
+        "text": "текст",
+        "files": [],
+        "buttons": [
+            "Назад"
+        ]
+    },
+    "buttons3_2_6": {
+        "text": "текст",
+        "files": [
+            {
+                "type": "pdf",
+                "file": "http://www.africau.edu/images/default/sample.pdf"
+            }
+        ],
+        "buttons": [
+            "Назад"
+        ]
+    },
+    "buttons3_2_7": {
+        "text": "текст",
+        "files": [],
+        "buttons": [
+            "Назад"
+        ]
+    },
+    "buttons3_2_8": {
+        "text": "текст",
+        "files": [
+            {
+                "type": "pdf",
+                "file": "http://www.africau.edu/images/default/sample.pdf"
+            }
+        ],
+        "buttons": [
+            "Назад"
+        ]
+    },
+    "buttons3_2_9": {
+        "text": "текст",
+        "files": [],
+        "buttons": [
+            "Назад"
+        ]
+    },
+    "buttons3_2_10": {
+        "text": "текст",
+        "files": [],
+        "buttons": [
+            "Назад"
+        ]
+    },
+
+    "buttons3_3_1": {
+        "text": "текст",
+        "files": [
+            {
+                "type": "pdf",
+                "file": "http://www.africau.edu/images/default/sample.pdf"
+            }
+        ],
+        "buttons": [
+            "Назад"
+        ]
+    },
+    "buttons3_3_2": {
+        "text": "текст",
+        "files": [],
+        "buttons": [
+            "Назад"
+        ]
+    },
+    "buttons3_3_3": {
+        "text": "текст",
+        "files": [
+            {
+                "type": "pdf",
+                "file": "http://www.africau.edu/images/default/sample.pdf"
+            }
+        ],
+        "buttons": [
+            "Назад"
+        ]
+    },
+    "buttons3_3_4": {
+        "text": "текст",
+        "files": [],
+        "buttons": [
+            "Назад"
+        ]
+    },
+    "buttons3_3_5": {
+        "text": "текст",
+        "files": [],
+        "buttons": [
+            "Назад"
+        ]
+    }
+}
